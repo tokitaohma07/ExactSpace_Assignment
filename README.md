@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # New-Assignment-of-ExactSpace
 
 # New-Assignment-of-ExactSpace
@@ -48,3 +49,6 @@ sudo usermod -aG docker ubuntu
 ```bash
 docker build --build-arg SCRAPE_URL=https://example.com -t web-scraper .
 docker run -p 5000:5000 web-scraper
+=======
+# ExactSpace_Assignment
+>>>>>>> 4ea96d8072c896ce998b99aea8fcf0d8c7215305
