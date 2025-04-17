@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# New-Assignment-of-ExactSpace
-
-# New-Assignment-of-ExactSpace
-
 # Steps
 1. Scrape data from any given URL using Node.js + Puppeteer.
 
